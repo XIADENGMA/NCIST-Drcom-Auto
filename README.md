@@ -22,7 +22,7 @@
 
 ## 使用
 
-具体参考:  [NCIST校园网自动连接](https://blog.xiadengma.com/archives/91])
+具体参考:  [NCIST校园网自动连接](https://blog.xiadengma.com/archives/91)
 
 ## TODO
 
