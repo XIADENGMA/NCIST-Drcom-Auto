@@ -11,6 +11,8 @@
 
 # NCIST-Drcom-Auto
 
+![](https://img.shields.io/badge/Version-1.1.0-success)
+
 ## 免责声明
 本软件仅作内部学习交流，请不要外传，请在下载后24小时内删除。
 
